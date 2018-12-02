@@ -3,7 +3,7 @@
 ## Requirements
 + python3
 + pip3
-+ Jupyter Notebook
++ [Jupyter Notebook](http://jupyter.org/install.html)
 
 ## Run
 ```sh
