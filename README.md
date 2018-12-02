@@ -12,3 +12,11 @@ $ pip3 install sklearn pandas numpy jupyter
 $ python3 -m jupyter notebook
 ```
 After above open `.ipynb` files.
+
+## Files
++ `RF_`: I used *RandomForestClassifier* here.  
++ `GB_`: I used *GradientBoostingClassifier* here.  
+
++ `_Do`: This creates result `csv` file.  
++ `_Test`: This is just for testing purpose. In other words, these files exist for finding optimized classifier parameters.  
+
