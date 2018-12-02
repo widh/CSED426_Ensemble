@@ -145,3 +145,5 @@ out/
 tester.py
 report.pdf
 cache/
+bank_result*
+crime_result*
